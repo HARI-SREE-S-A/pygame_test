@@ -2,13 +2,13 @@ import pygame
 import random
 import math
 
-BALL_SPEED = 10
-BALL_SPEED_INCREMENT = 1
-SCORES_PER_LEVEL = 2
 
-ball_color = pygame.Color('red')
+
+
+
+
 ball_speed = [5, 5]
-ball_radius = 20
+
 
 # declaring screen
 SCREEN_WIDTH = 800
@@ -236,3 +236,4 @@ while True:
 
     pygame.display.update()
     clock.tick(60)
+
