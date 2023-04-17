@@ -75,7 +75,7 @@ class Ball:
         self.y = y
         self.color = color
         self.held_by = None
-        self.level = 1
+        
         self.radius = radius
         self.speed_x = speed
         self.speed_y = speed
