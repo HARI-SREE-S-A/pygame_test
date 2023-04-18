@@ -7,6 +7,7 @@ import time
 
 
 
+
 ball_speed = [50000, 50000]
 
 b = 1
