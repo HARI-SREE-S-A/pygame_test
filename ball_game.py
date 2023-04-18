@@ -211,7 +211,7 @@ while True:
     if not ball.is_held():
         ball.move(0, 1)
 
-    # Check if ball is being held and move it with the player
+    # Check if ball is being held 
     for player in players:
         if player.held_ball is not None:
             ball.move(player.x - ball.x, player.y - ball.y)
