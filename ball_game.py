@@ -93,7 +93,7 @@ class Ball:
 
     def draw(self, surface):
         pygame.draw.circle(surface, self.color, (int(self.x), int(self.y)), BALL_RADIUS)
-    def update(self):
+    
 
 
 # main loop
