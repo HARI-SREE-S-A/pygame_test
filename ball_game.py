@@ -7,7 +7,7 @@ import numpy
 
 
 
-#try 
+#try the new feature 
 
 ball_speed = [50000, 50000]
 
